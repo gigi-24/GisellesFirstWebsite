@@ -1,0 +1,36 @@
+.navbar{
+    background-color: rgb(253, 210, 217);
+    top: 0;
+    left: 0;
+    position: fixed;
+    width:100%;
+    text-align: center;
+}
+
+.navbar li {
+    list-style-type: none;
+    display: inline;
+
+}
+
+.navbar  a {
+    font-size: 38px;
+    padding: 14px  16px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+.navbar a:hover{
+    background-color: white;
+    color:pink;
+}
+
+.welcome{
+    background-color: aliceblue;
+    color: black;
+    padding:100px 100px;
+    text-align: center;
+    font-style: oblique;
+}
